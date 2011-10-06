@@ -3,5 +3,7 @@ Runs in E_STRICT without throwing errors.
 Has support for international date formats.
 Able to start on any day of the week.
 Lots on configuration possibilities through CSS.
-Documentation available here: http://blog.152.org/2010/10/php-bcalendar-my-take-on-php-calendar.html
+Example code available here: http://blog.152.org/2010/10/php-bcalendar-my-take-on-php-calendar.html
+Documentation available here: http://files.152.org/php/bCalendar/docs/
+Demo available here: http://152.org/cal.php
 There is also documentation located in the docs folder.
