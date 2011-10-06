@@ -1,0 +1,98 @@
+body
+{
+  font-family: arial;
+  font-size: 14px;
+}
+
+#bCalendar
+{
+  border-collapse: collapse; /*cellpadding*/
+  border-spacing:0px; /*cellspacing*/
+}
+
+.calSubmitButton
+{
+  margin-left:10px;
+}
+
+.currentDay, .currentMonth, .notCurrentMonth
+{
+  border-width: 1px;
+  border-color: black;
+  border-collapse: 2px;
+  font-size: 12px;
+  text-align:left; /*align*/
+  vertical-align:top; /*valign*/
+  width: 75px;
+  height: 75px;
+}
+
+.currentDay
+{
+  border-style: solid;
+  background-color: #ccc;
+  color: blue;
+}
+
+.currentDayDayFormat
+{
+  background-color: #ccc;
+  color:black;
+}
+
+.currentDayDataFormat
+{
+  font-size:10px;
+}
+
+.currentMonth, .currentDay
+{
+  border-style: solid;
+  /*background-color: gray;*/
+}
+
+.currentMonthDayFormat
+{
+  background-color: white;
+  color:black;
+}
+
+.currentMonthDataFormat , .currentDayDataFormat
+{
+  font-size:10px;
+}
+
+.notCurrentMonth
+{
+  /*border-style: dashed;*/
+  background-color: #344E58;
+  color: #344E58;
+}
+
+.notCurrentMonthDayFormat
+{
+  background-color: #344E58;
+  color: #344E58;
+  display:none;
+}
+
+.notCurrentMonthDataFormat 
+{
+  background-color: #344E58;
+  color: #344E58;
+  display:none;
+}
+
+#calHeaderMonth
+{
+  font-size:16px;
+  text-align:Left;
+}
+
+#calDay1, #calDay2, #calDay3, #calDay4, #calDay5, #calDay6, #calDay7
+{
+  text-align:center;
+  height:20px;
+}
+
+
