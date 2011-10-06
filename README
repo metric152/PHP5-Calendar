@@ -1,5 +1,7 @@
 A calendar written in PHP5 I've developed as a side project.
-Able to run in E_STRICT without throwing errors.
+Runs in E_STRICT without throwing errors.
 Has support for international date formats.
+Able to start on any day of the week.
+Lots on configuration possibilities through CSS.
 Documentation available here: http://blog.152.org/2010/10/php-bcalendar-my-take-on-php-calendar.html
 There is also documentation located in the docs folder.
