@@ -19,7 +19,7 @@ body
 {
   border-width: 1px;
   border-color: black;
-  border-collapse: 2px;
+  /* border-collapse: 2px;*/
   font-size: 12px;
   text-align:left; /*align*/
   vertical-align:top; /*valign*/
