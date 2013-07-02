@@ -7,3 +7,6 @@ Example code available here: http://blog.152.org/2010/10/php-bcalendar-my-take-o
 Documentation available here: http://files.152.org/php/bCalendar/docs/
 Demo available here: http://152.org/cal.php
 There is also documentation located in the docs folder.
+
+TODO  
+- Turn into a JSON feed that can be imported through javascript and written to the page  
